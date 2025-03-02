@@ -57,7 +57,7 @@ A massive shoutout to the creators of these incredible resources that helped bri
 ---
 
 ### **🐛 Found a Bug? Let’s Squash It! 🐛**
-Encountered an issue? Report it on my [**Discord server**](https://discord.gg/rkhVTFKxwu) so I can fix it ASAP. Your feedback helps make the **Crazy PvP Pack** even better!
+Encountered an issue? Report it on the [**issue tracker**](https://github.com/PrinceAkaid/Crazy-PvP-Pack/issues) so I can fix it ASAP. Your feedback helps make the **Crazy PvP Pack** even better!
 
 ---
 
