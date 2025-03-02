@@ -1,4 +1,4 @@
-# [![CrazyMods](https://cdn.modrinth.com/data/cached_images/dbd99759281026470dad478c967c4a21af120307.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
+# [![CrazyMods](https://imgur.com/TrsYlA7.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
 ### **🚀 Welcome to the Crazy PvP Pack – The Ultimate PvP Experience! 🚀**
 
 Are you ready to dominate the battlefield like never before? The **Crazy PvP Pack** is here to revolutionize your Minecraft PvP gameplay. Built for warriors who demand the best, this pack combines **jaw-dropping visuals**, **buttery-smooth performance**, and **PvP-focused features** to give you the ultimate competitive edge. Whether you're a seasoned pro or a rising star, this pack is your ticket to victory.
@@ -61,10 +61,10 @@ Encountered an issue? Report it on the [**issue tracker**](https://github.com/Pr
 
 ---
 
-[![My Modrinth Profile!](https://cdn.discordapp.com/attachments/1206531504134426625/1337825810219925524/PPERrP3PPsyvYfk6.png?ex=67c53320&is=67c3e1a0&hm=19247b8a9948761747cc7955c49ecc19786b35ea01431ffbd9007edcd9185072&)](https://modrinth.com/user/CrazyBoy95YT)
-[![My Planet Minecraft Profile!](https://cdn.discordapp.com/attachments/1206531504134426625/1337816726355841085/7iZaUuvGChunI5om.png?ex=67c52aaa&is=67c3d92a&hm=9812a85c242a2f0256337674b6bd68290b47f749ab0055fce52dee4052607aae&)](https://www.planetminecraft.com/member/crazyboy95yt)
-[![Follow me on X (Twitter)!](https://cdn.discordapp.com/attachments/1206531504134426625/1334845671395688508/rwRuFIXCabXsitGL.png?ex=67c59068&is=67c43ee8&hm=0b5ad7e3d320dff9dae6f40679b0a5921570fd53beb0783d32c8be4519d79599&)](https://twitter.com/CrazyBoy95YT)
-[![Join our Discord server!](https://cdn.discordapp.com/attachments/1206531504134426625/1334845667117633569/GFg70TptJVuti0VF.png?ex=67c59067&is=67c43ee7&hm=29611b92ca4ea1c967ced3d16cb71950c5c5846bae094c6bf945f14a5959e74a&)](https://discord.gg/rkhVTFKxwu)
+[![My Modrinth Profile!](https://imgur.com/rLQUIIr.png)](https://modrinth.com/user/CrazyBoy95YT)
+[![My Planet Minecraft Profile!](https://imgur.com/jcRwGMN.png)](https://www.planetminecraft.com/member/crazyboy95yt)
+[![Follow me on X (Twitter)!](https://imgur.com/IPOmg2q.png)](https://twitter.com/CrazyBoy95YT)
+[![Join our Discord server!](https://imgur.com/n6ISYuP.png)](https://discord.gg/rkhVTFKxwu)
 
 ---
 
