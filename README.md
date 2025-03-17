@@ -29,25 +29,7 @@ Why wait? The battlefield is calling, and the **Crazy PvP Pack** is your ultimat
 
 ---
 
-<details>
-<summary>✨ Credits ✨</summary>
-
-A massive shoutout to the creators of these incredible resources that helped bring the **Crazy PvP Pack** to life _(sorted alphabetically)_:
-
-- **3D End Crystals** – https://www.planetminecraft.com/texture-pack/3d-end-crystals
-- **Blinking Ender Eyes** – https://modrinth.com/resourcepack/blinking-ender-eyes
-- **Breaking Armor** – https://www.curseforge.com/minecraft/texture-packs/breaking-armor
-- **Cubic Sun & Moon** – https://modrinth.com/resourcepack/cubic-sun-moon
-- **Custom Block Outline** – https://www.curseforge.com/minecraft/texture-packs/custom-block-outline
-- **Default Dark Mode** – https://modrinth.com/resourcepack/default-dark-mode
-- **Even Better Enchants** – https://modrinth.com/resourcepack/even-better-enchants
-- **In-Game Brewing Guide** – https://www.curseforge.com/minecraft/texture-packs/in-game-brewing-guide
-- **Trims Item Fix** – https://www.planetminecraft.com/texture-pack/correct-trims
-- **Vanilla Tweaks** – https://vanillatweaks.net
-- **Visible Ores** – https://www.curseforge.com/minecraft/texture-packs/visible-ores
-- **XXVI's Shiny Armor Trims** – https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims
-
-</details>
+### [✨ Credits ✨](https://github.com/PrinceAkaid/Crazy-PvP-Pack/blob/main/credits.md#-------------------------------credits----------------------------) ([Special Thanks](https://github.com/PrinceAkaid/Crazy-PvP-Pack/blob/main/credits.md#-------------------------------credits----------------------------))
 
 ---
 
