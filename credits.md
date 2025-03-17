@@ -1,4 +1,4 @@
--------------------------------------------------- CREDITS --------------------------------------------------
+------------------------------------------------- CREDITS -------------------------------------------------
 
 Some of the textures and models in this pack were created by other individuals.
 I’ve made edits and possibly added to their work.
@@ -47,4 +47,4 @@ please reach out to me on Discord. Discord server https://discord.gg/rkhVTFKxwu.
 	- XXVI's Shiny Armor Trims
 	- https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims
 
--------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
