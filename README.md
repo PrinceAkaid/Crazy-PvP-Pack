@@ -1,4 +1,4 @@
-# [![CrazyMods](https://imgur.com/TrsYlA7.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
+# [![Crazy PvP Pack](https://imgur.com/TrsYlA7.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
 ### **🚀 Welcome to the Crazy PvP Pack – The Ultimate PvP Experience! 🚀**
 
 Are you ready to dominate the battlefield like never before? The **Crazy PvP Pack** is here to revolutionize your Minecraft PvP gameplay. Built for warriors who demand the best, this pack combines **jaw-dropping visuals**, **buttery-smooth performance**, and **PvP-focused features** to give you the ultimate competitive edge. Whether you're a seasoned pro or a rising star, this pack is your ticket to victory.
