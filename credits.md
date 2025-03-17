@@ -1,6 +1,6 @@
 # ------------------------------ CREDITS ---------------------------
 
-Some of the textures and models in this pack were created by other individuals. I’ve made edits and possibly added to their work. If I haven’t properly credited you here or if you’d like your work removed, please reach out to me on [Discord](https://discord.gg/rkhVTFKxwu).
+Some of the textures and models included in this pack were originally created by other talented individuals, and I have made modifications or enhancements to their work. If I have inadvertently missed giving proper credit or if you would like your work to be removed, please feel free to reach out to me on [Discord](https://discord.gg/rkhVTFKxwu). I deeply appreciate your contributions.
 
 - 3D End Crystals
   - [Planet Minecraft](https://www.planetminecraft.com/texture-pack/3d-end-crystals/)
