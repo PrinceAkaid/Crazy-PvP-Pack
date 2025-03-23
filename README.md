@@ -1,12 +1,11 @@
 # [![Crazy PvP Pack](https://imgur.com/TrsYlA7.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
-### **🚀 Welcome to the Crazy PvP Pack – The Ultimate PvP Experience! 🚀**
 
+### **🚀 Welcome to the Crazy PvP Pack – The Ultimate PvP Experience! 🚀**
 Are you ready to dominate the battlefield like never before? The **Crazy PvP Pack** is here to revolutionize your Minecraft PvP gameplay. Built for warriors who demand the best, this pack combines **jaw-dropping visuals**, **buttery-smooth performance**, and **PvP-focused features** to give you the ultimate competitive edge. Whether you're a seasoned pro or a rising star, this pack is your ticket to victory.
 
 ---
 
-### **🔥 Why Crazy PvP Pack Stands Out 🔥**
-
+### **🔥 Why Crazy PvP Pack Stands Out? 🔥**
 - **Stunning Custom Textures:** Every sword, shield, and block has been redesigned with vibrant, eye-catching details that make your game pop. Stand out on the battlefield with a look that’s as fierce as your skills.
 - **Enhanced Visuals:** From electrifying enchantment effects to dynamic combat animations, every detail has been crafted to immerse you in the action. Feel the adrenaline as you strike, block, and outplay your opponents.
 - **Optimized for Performance:** Say goodbye to lag! This pack is finely tuned to deliver lightning-fast responsiveness, so you can focus on what really matters – winning.
@@ -19,7 +18,7 @@ The **Crazy PvP Pack** isn’t just a resource pack – it’s a **game-changer*
 
 ---
 
-### **🌟 Join the Revolution 🌟**
+### **🌟 Join the Revolution! 🌟**
 Thousands of players have already embraced the **Crazy PvP Pack** and transformed their PvP experience. Join our growing community of warriors and share your epic wins, strategies, and feedback. Together, we’re redefining what it means to be a PvP champion.
 
 ---
@@ -29,11 +28,29 @@ Why wait? The battlefield is calling, and the **Crazy PvP Pack** is your ultimat
 
 ---
 
-### [✨ Credits ✨](https://github.com/PrinceAkaid/Crazy-PvP-Pack/blob/main/credits.md#-------------------------------credits----------------------------) ([Special Thanks](https://github.com/PrinceAkaid/Crazy-PvP-Pack/blob/main/credits.md#-------------------------------credits----------------------------))
+<details>
+<summary>✨ Credits ✨</summary>
+
+A massive shoutout to the creators of these incredible resources that helped bring the **Crazy PvP Pack** to life _(sorted alphabetically)_:
+
+- **3D End Crystals** – https://www.planetminecraft.com/texture-pack/3d-end-crystals
+- **Blinking Ender Eyes** – https://modrinth.com/resourcepack/blinking-ender-eyes
+- **Breaking Armor** – https://www.curseforge.com/minecraft/texture-packs/breaking-armor
+- **Cubic Sun & Moon** – https://modrinth.com/resourcepack/cubic-sun-moon
+- **Custom Block Outline** – https://www.curseforge.com/minecraft/texture-packs/custom-block-outline
+- **Default Dark Mode** – https://modrinth.com/resourcepack/default-dark-mode
+- **Even Better Enchants** – https://modrinth.com/resourcepack/even-better-enchants
+- **In-Game Brewing Guide** – https://modrinth.com/resourcepack/in-game-brewing-guide
+- **Trims Item Fix** – https://www.planetminecraft.com/texture-pack/correct-trims
+- **Vanilla Tweaks** – https://vanillatweaks.net
+- **Visible Ores** – https://www.curseforge.com/minecraft/texture-packs/visible-ores
+- **XXVI's Shiny Armor Trims** – https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims
+
+</details>
 
 ---
 
-### **🚨 Check Out My Other Projects 🚨**
+### **🚨 Check Out My Other Projects! 🚨**
 - **[Blocks 3D](https://modrinth.com/resourcepack/blocks-3d/)** – Transform your world with stunning 3D blocks that bring your builds to life!
 
 ---
