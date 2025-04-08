@@ -13,6 +13,17 @@ Are you ready to fight battles like never before? The **Crazy PvP Pack** has com
 
 ---
 
+<details>
+<summary>🎬 Some Showcase Videos of Crazy PvP Pack 🎬</summary>
+
+Special Thanks to **Glitchy_Thunderz** and **GAMING WITH DARSH** for making these videos.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M4hd3Ki5om8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mfQ-1V26tx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</details>
+
+---
+
 ### **🎯 What Makes It a Must-Have? 🎯**
 The **Crazy PvP Pack** is more than a resource pack – it transforms the game. Every texture, animation, and effect is carefully designed to enhance your tactical awareness and provide that combat rush. From defending your base to making a big push or battling in the arena, this pack keeps you one step ahead of the game.
 
@@ -31,19 +42,24 @@ Why wait? The battlefield is calling your name, and the **Crazy PvP Pack** is yo
 <details>
 <summary>✨ Credits ✨</summary>
 
-A massive shoutout to the creators of these incredible resources that helped bring the **Crazy PvP Pack** to life _(sorted alphabetically)_:
+A massive shoutout to the creators of these incredible resources that helped bring the **Crazy PvP Pack** to life. This pack includes textures and models originally crafted by other talented creators, with modifications or enhancements made by me. If I have unintentionally overlooked proper credit or if you would like your work removed, please don't hesitate to reach out to me on [Discord](https://discord.gg/rkhVTFKxwu). Your contributions are truly appreciated. _(sorted alphabetically)_:
 
 - **3D End Crystals** – https://www.planetminecraft.com/texture-pack/3d-end-crystals
+- **Animated Items** – https://modrinth.com/resourcepack/animated-items
+- **Armor Trim Preview** – https://modrinth.com/resourcepack/armor-trim-preview
 - **Blinking Ender Eyes** – https://modrinth.com/resourcepack/blinking-ender-eyes
 - **Breaking Armor** – https://www.curseforge.com/minecraft/texture-packs/breaking-armor
 - **Cubic Sun & Moon** – https://modrinth.com/resourcepack/cubic-sun-moon
 - **Custom Block Outline** – https://www.curseforge.com/minecraft/texture-packs/custom-block-outline
 - **Default Dark Mode** – https://modrinth.com/resourcepack/default-dark-mode
+- **Default Dark Mode: Expansion** – https://modrinth.com/resourcepack/default-dark-mode-expansion
 - **Even Better Enchants** – https://modrinth.com/resourcepack/even-better-enchants
+- **Fantasy 3D Weapons CIT** – https://modrinth.com/resourcepack/fantasy-3d-weapons-cit
 - **In-Game Brewing Guide** – https://modrinth.com/resourcepack/in-game-brewing-guide
-- **Trims Item Fix** – https://www.planetminecraft.com/texture-pack/correct-trims
+- **Unstable Falling Blocks** – https://modrinth.com/resourcepack/unstable-falling-blocks
 - **Vanilla Tweaks** – https://vanillatweaks.net
 - **Visible Ores** – https://www.curseforge.com/minecraft/texture-packs/visible-ores
+- **Visual Armor Trims** – https://modrinth.com/resourcepack/visual-armor-trims
 - **XXVI's Shiny Armor Trims** – https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims
 
 </details>
@@ -60,6 +76,7 @@ If you find a problem, please report it on the [**issue tracker**](https://githu
 
 ---
 
+### 📞 Want to contact me? Reach out my socials. 📞
 [![My Modrinth Profile!](https://imgur.com/rLQUIIr.png)](https://modrinth.com/user/CrazyBoy95YT)
 [![My Planet Minecraft Profile!](https://imgur.com/jcRwGMN.png)](https://www.planetminecraft.com/member/crazyboy95yt)
 [![Follow me on X (Twitter)!](https://imgur.com/IPOmg2q.png)](https://twitter.com/CrazyBoy95YT)
