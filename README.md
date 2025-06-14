@@ -1,4 +1,4 @@
-# [![Crazy PvP Pack](https://imgur.com/TrsYlA7.png)](https://modrinth.com/resourcepack/crazy-pvp-pack)
+# [![Crazy PvP Pack](https://imgur.com/TrsYlA7.png)](https://modrinth.com/frog)
 
 ### **🚀 Welcome to the Crazy PvP Pack – The Ultimate PvP Experience! 🚀**
 Are you ready to fight battles like never before? The **Crazy PvP Pack** has come to change the way you play Minecraft PvP. Made for players who deserve the best, this pack has **amazing visuals**, **super smooth performance**, and **special PvP features** to give you the best chance of winning. Whether you are a veteran or an upstart, this pack can help you emerge victorious.
@@ -16,9 +16,13 @@ Are you ready to fight battles like never before? The **Crazy PvP Pack** has com
 <details>
 <summary>🎬 Some Showcase Videos of Crazy PvP Pack 🎬</summary>
 
-Special Thanks to **Glitchy_Thunderz** and **GAMING WITH DARSH** for making these videos.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M4hd3Ki5om8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Special thanks to **[GAMING WITH DARSH](https://www.youtube.com/@MinecraftogFans)**, **[HunterArc](https://www.youtube.com/@Hunter_Arc)**, and **[Not_EvilXD](https://www.youtube.com/@Not_EviLXD)** for making these videos.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mfQ-1V26tx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M4hd3Ki5om8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FboTO68ovx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
@@ -68,6 +72,8 @@ A massive shoutout to the creators of these incredible resources that helped bri
 
 ### **🚨 Check Out My Other Projects! 🚨**
 - **[Blocks 3D](https://modrinth.com/resourcepack/blocks-3d/)** – Transform your world with stunning 3D blocks that bring your builds to life!
+- **[Bloody PvP Pack](https://modrinth.com/project/bloody-pvp-pack)** – Electrifies battlefields with a fierce red vibe. Bold textures spark dynamic clashes. Every PvP fight becomes an immersive thrill. | **NOT** Coming for a reason.
+- **[Fixologic](https://modrinth.com/project/fixologic)** – A resource pack dedicated solely to fixing issues in vanilla Minecraft. | **NOT** Coming for a reason.
 
 ---
 
